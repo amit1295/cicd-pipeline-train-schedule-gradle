@@ -1,6 +1,6 @@
 # cicd-pipeline-train-schedule-gradle
 
-This is a simple train schedule app written using nodejs. It is intended to be used as a sample.
+This is a simple schedule app written using nodejs. It is intended to be used as a sample.
     npm install
 
 Then, you can run the app with:
